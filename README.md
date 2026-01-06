@@ -47,7 +47,7 @@ Final optimized model: Large tires, small windscreen, slanted design, small axle
 
 R-squared: 99.13% – Strong predictive capability.
 Residuals Analysis: Normally distributed, ensuring model validity.
-Cost Analysis: Best-performing model cost ₹13,200 while maximizing efficiency.
+Cost Analysis: Best-performing model cost $13,200 while maximizing efficiency.
 
 
 # **Final Recommendations**
